@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PabloTranslair {www.translair.work}
+- 👋 Hi, I’m @PabloTranslair {[translair.work](url)}
 - 💼 I'm a full-time freelance translator (EN<>ES)
 - 👀 I’m interested in Translation and Localization
 - 🌱 I’m currently learning how to engage with the GitHub community
